@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 0005000010101C00,0005000010101D00,0005000010101E00,000500001014B700,000500001014B800
+name = <Mod Name>
+path = "New Super Mario Bros. U/Mods/<Mod Name>"
+description = <description>
+version = 1

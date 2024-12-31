@@ -1,0 +1,52 @@
+Background:
+- CaviCliff -> GreenCliffs
+- Before Boss(Forest) -> Cliffs alt
+- Cloud Vertical -> Poison Volcano
+- Clouds (Secondary) -> Poison Volcano
+- Underwater -> CaveWater
+- Mountains Clouds 2 (Sec) -> Mushroom Clouds
+- Ghost House (Outside) -> Moon Desert
+- Desset Clouds -> Dark Clouds
+- TikaPoi -> UndergroundWater
+- Nabbit -> Sil. Schroot
+- TikaWat -> UndergroundWater but darker and water lol
+- Mountains Clouds (Sec) -> with eals
+- Before Boss (Beach) -> Frozen Beach
+- Overworld Clouds -> Clouds but frozen mountain
+- Snow Underground -> with Underwater
+- DaytimSno -> well yeah
+- Slanted Snow -> new improved
+- Setugen_Athlet -> night snow (closer)
+- Mountain 2 -> midnight Mountain
+- Mountain -> midnight Mountain (darker)
+- Kumonaka_Tat2 -> Vertical mounatin clouds
+- Forest -> Snowy Trees
+- KumoNigh -> Dark Clouds
+- Mord -> Darker Snowy Trees?
+- Siro_Forest -> Stormy Castle
+- Poisonn -> Cool forest
+- CaveVr -> Posion vertical
+- Moutain 3 -> Cool forest 2
+- Clouds -> Purple Clouds
+- VolcanoSMBu -> Well..
+- Fact_1 -> Factory
+- Youga2 -> Bowser casle volcano
+Music:
+OverWorld: Mario&Luigi
+
+Level Zoom:
+Big: 28 Blocks
+Normal: 19 Blocks
+Bonus Room Sizes:
+Big:
+" Horizonal "
+xSize: 1000
+ySize: 288
+Static Zoom
+Screen Height: 28
+" Vertical "
+xSize: 448
+ySize: 560
+Static Zoom
+Screen Height: 28
+Normal:

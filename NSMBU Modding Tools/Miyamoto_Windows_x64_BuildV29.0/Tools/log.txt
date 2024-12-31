@@ -1,0 +1,53 @@
+--------------------------------------------------------------------------------
+2018-07-03, 14:12:39
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\USR\Miyamoto\miyamoto.py", line 2665, in HandleOpenFromFile
+    self.LoadLevel(None, str(fn), True, 1, True)
+  File "C:\Users\USR\Miyamoto\miyamoto.py", line 3456, in LoadLevel
+    self.LoadLevel_NSMBU(levelData, areaNum)
+  File "C:\Users\USR\Miyamoto\miyamoto.py", line 3555, in LoadLevel_NSMBU
+    if not globals.Level.load(levelData, areaNum):
+  File "C:\Users\USR\Miyamoto\level.py", line 168, in load
+    newarea.load(course, L0, L1, L2, progress)
+  File "C:\Users\USR\Miyamoto\area.py", line 245, in load
+    LoadTileset(1, self.tileset1)
+  File "C:\Users\USR\Miyamoto\loading.py", line 552, in LoadTileset
+    return _LoadTileset(idx, name)
+  File "C:\Users\USR\Miyamoto\loading.py", line 430, in _LoadTileset
+    img = loadGTX(comptiledata)
+  File "C:\Users\USR\Miyamoto\tileset.py", line 1417, in loadGTX
+    raise NotImplementedError("Unimplemented texture format!")
+NotImplementedError: Unimplemented texture format!
+--------------------------------------------------------------------------------
+2018-07-03, 14:12:46
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\USR\Miyamoto\widgets.py", line 4827, in HandleOpenRecentFile2
+    self.HandleOpenRecentFile(2)
+  File "C:\Users\USR\Miyamoto\widgets.py", line 4859, in HandleOpenRecentFile
+    if not globals.mainWindow.LoadLevel(None, self.FileList[number], True, 1, True): self.RemoveFromList(number)
+  File "C:\Users\USR\Miyamoto\miyamoto.py", line 3456, in LoadLevel
+    self.LoadLevel_NSMBU(levelData, areaNum)
+  File "C:\Users\USR\Miyamoto\miyamoto.py", line 3555, in LoadLevel_NSMBU
+    if not globals.Level.load(levelData, areaNum):
+  File "C:\Users\USR\Miyamoto\level.py", line 168, in load
+    newarea.load(course, L0, L1, L2, progress)
+  File "C:\Users\USR\Miyamoto\area.py", line 245, in load
+    LoadTileset(1, self.tileset1)
+  File "C:\Users\USR\Miyamoto\loading.py", line 552, in LoadTileset
+    return _LoadTileset(idx, name)
+  File "C:\Users\USR\Miyamoto\loading.py", line 430, in _LoadTileset
+    img = loadGTX(comptiledata)
+  File "C:\Users\USR\Miyamoto\tileset.py", line 1417, in loadGTX
+    raise NotImplementedError("Unimplemented texture format!")
+NotImplementedError: Unimplemented texture format!
+--------------------------------------------------------------------------------
+2018-07-03, 14:13:12
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\USR\Miyamoto\miyamoto.py", line 2782, in HandleSaveAs
+    f.write(CompYaz0(data, 0, globals.CompLevel))
+  File "C:\Users\USR\Miyamoto\yaz0.py", line 54, in compressWSZST
+    subprocess.call('wszst.exe COMPRESS "' + inf + '" --dest "' + outf + '"', creationflags=0x8)
+TypeError: Can't convert 'bytes' object to str implicitly

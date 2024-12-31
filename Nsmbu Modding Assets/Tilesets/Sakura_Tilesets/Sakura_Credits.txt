@@ -1,0 +1,27 @@
+Hey there!
+Thanks for downloading Sakura SMBU!
+
+Sakura SMBU is a mod of NSMBU which contains 1 complete new world with overall 8 new levels (all stages of World 1 are included). In level 2-1, you can also find the credits.
+The hack was tested on Cemu (V. 1.24.0b) and NOT on Wii U, so we don't know if it'll work on the console.
+
+If the game crashes after pressing 2/A in the Title Screen, delete the Title.szs file in the layout folder and replace it with the original Title.szs file of NSMBU.
+
+You have to replace the Title.szs file in the folder of the NSMBU Update Data with the Title.szs file from here (\Sakura SMBU\content\Common\layout)
+if you want to have the logo in the title screen.
+
+Full Credits:
+
+A HACK BY DAVETENDO & TELTIX
+
+- Original Idea: Nyrotrax
+- Logo: DayownerTV
+- Level Design: Davetendo, Teltix
+- World Map Design: Nyrotrax
+- Tilesets: Newer Team, Rimea
+- Custom Backgrounds: WillyMaker, Teltix
+- Custom Music: Teltix
+- Soundtrack: Nintendo, Infinite_X
+- Tools: AboodXD, KillzXGaming
+- Testing: Davetendo, Teltix, DayownerTV
+- Support: DayownerTV, Roald
+- Original Game: Nintendo

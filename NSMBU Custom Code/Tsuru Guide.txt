@@ -1,0 +1,8 @@
+Tsuru Tutorial:
+- For Stability use Cemu (v1.26.2f)
+- You Need Base Game and the v1.3 Update 
+- overwrite any files in your dump of New Super Mario Bros. U with the files from the dump of the v1.3 update
+  - Installing the update through Cemu will cause issues that won't occur otherwise!
+- run Trailblazer and follow the steps to patch the .rpx file in your merged NSMBU files (located in the "code" folder) 
+  - with the patch file that correlates with your specific version of the game (patch_US for US, patch_EU for EU, patch_JP for JP)
+- overwrite the vanilla .rpx file or rename the orignal one to something else but the patched .rpx should have the Name of the vanila .rpx or it wont work!

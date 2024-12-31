@@ -1,0 +1,10 @@
+0//< Version
+"e_Shiro_Koori"//< enemy
+"b_Shiro_Koori"//< boss
+"mo_Shiro_Koori"//< mapobj
+"i_Shiro_Koori"//< item
+"p_Shiro_Koori"//< player
+"m_default"//< DV
+"ef_default"//< effect
+"lm_temp"//< lightmap
+

@@ -1,0 +1,38 @@
+Thanks for downloading Small Super Mario Universe!
+
+General information:
+
+Small Super Mario Universe is a NSMBU hack developed by Team Universe which contains 3 new worlds with overall 26 new levels. All stages of World 1, World 2 and World 3 are included.
+The hack was originally supposed to be a full 9 world NSMBU hack and should've been called Super Mario Universe but had to be cancelled because of several problems in development.
+The hack was now mainly compiled by Davetendo & DayownerTV to a 3 world NSMBU hack and is called Small Super Mario Universe because it's a shorten version of Super Mario Universe.
+The stages from World 1-1 until World 2-6 are the normal stages like they sould've been in the full hack. After that, you will find various mixed stages with different themes.
+
+Note:
+
+1) We recommend playing this hack on a 1.26 version of Cemu or on V.1.22.3 of Cemu if you install the hack via graphic packs.
+2) For level 1-4, it is necessary that Cemu is not lagging in the stage and the sound in Cemu has no delay because otherwise the level will not work like it is intended.
+   Also, don't play level 1-4 in multiplayer becuase it WILL NOT WORK CORRECTLY! (In general, the hack is not intended to be played in multiplayer.)
+3) There are a few known bugs in some Cemu versions regarding the hack:
+   - In level 2-3, some mushrooms in the background could be completely black.
+   - In level 2-Tower, the poison in the second half after the Checkpoint could look cursed when it begins to rise. This shouldn't be longer than a few seconds.
+
+
+
+Credits:
+
+A HACK BY TEAM UNIVERSE
+
+- Planning & Direction: Davetendo, Teltix
+- Level Design: Davetendo, Teltix
+- Logo: DayownerTV, Rimea
+- Custom Tilesets: Baron, Davetendo, DayownerTV, Dr. Yoshi, Rimea
+- Custom Music & Soundtrack: Nintendo, Nintyler
+- Custom Backgrounds: Boom28, Teltix, WillyMaker
+- Tools: AboodXD, KillzXGaming
+- Custom Overworld: Davetendo, DayownerTV
+- Custom Sprites: Davetendo, DayownerTV, HP_Nick
+- General Support: Baron, Boom28, xleonfyx
+- Compiling: Davetendo, DayownerTV
+- Original Game: NINTENDO
+
+Thanks for reading and playing!
