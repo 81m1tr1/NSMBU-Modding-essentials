@@ -12,7 +12,7 @@ git clone https://github.com/81m1tr1/NSMBU-Modding-essentials.git
 ```git
 cd Desktop
 cd NSMBU-Modding-essentials\NSMBU Modding Tools\Miyamoto_Windows_x64_BuildV29.0
-git clone https://github.com/81m1tr1/NSMBU-Miyamoto-Objects
+git clone https://github.com/81m1tr1/NSMBU-Miyamoto-Objects.git
 ```
 ---
 ### Credits
