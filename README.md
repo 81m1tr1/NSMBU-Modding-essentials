@@ -1,15 +1,19 @@
-# NSMBU Modding essentials
+# NSMBU Modding
  ---
  ### Use:
 1. Download Git
-2.a Paste the code into your command line:
+2. (a) Paste the code into your command line:
  ```git
 cd Desktop
-git clone https://github.com/81m1tr1/NSMBU-Modding-essentials
+git clone https://github.com/81m1tr1/NSMBU-Modding-essentials.git
 ```
-2.b alternative Download the Project as Zip file
-
+2. (b) alternative Download the Project as Zip file
 3. Download the Objects for Miyamoto
+```git
+cd Desktop
+cd NSMBU-Modding-essentials\NSMBU Modding Tools\Miyamoto_Windows_x64_BuildV29.0
+git clone https://github.com/81m1tr1/NSMBU-Miyamoto-Objects
+```
 ---
 ### Credits
 - Zenith Discord:
